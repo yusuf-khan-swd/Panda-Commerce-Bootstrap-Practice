@@ -16,6 +16,11 @@
   text-decoration: none;
 }
 
+.buy-now-button:hover {
+  color: white;
+  background: #ff136f;
+}
+
 .watch-background {
   background: orange;
 }
