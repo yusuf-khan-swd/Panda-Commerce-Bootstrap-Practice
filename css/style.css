@@ -20,6 +20,10 @@
   background: orange;
 }
 
+.categories img {
+  width: 100px;
+}
+
 .bag-background {
   background: orchid;
 }
